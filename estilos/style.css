@@ -62,3 +62,8 @@ section#sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.409);
     transition: transform 0.3s, border 0.4s;
 }
+
+::-webkit-scrollbar{
+    height: 0px;
+    width: 0px;
+}
